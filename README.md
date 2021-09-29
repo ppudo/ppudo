@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pawel
+- 👀 I’m interested in C embeded (AVR & STM32), C# and python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on C# and C embeded
+- 📫 How to reach me ppudo@outlook.com
